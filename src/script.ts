@@ -400,7 +400,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 7. Fetch Version from Metrolist GitHub Releases ---
     const versionBadge = document.getElementById('version-badge');
     if (versionBadge) {
-        fetch('https://api.github.com/repos/mostafaalagamy/Metrolist/releases/latest', {
+        fetch('https://api.github.com/repos/MetrolistGroup/Metrolist/releases/latest', {
             method: 'GET',
             headers: {
                 'Accept': 'application/vnd.github.v3+json'
