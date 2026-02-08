@@ -53,7 +53,15 @@ document.addEventListener('DOMContentLoaded', () => {
             faq_4_a: "Yes, Metrolist supports account login via MicroG or built-in OAuth to synchronize your playlists and library.",
             faq_5_q: "Is there an iOS version available?",
             faq_5_a: "No, Metrolist is currently only available for Android due to system restrictions on third-party clients.",
-            footer_tagline: "Open Source Music Client"
+            footer_tagline: "Open Source Music Client",
+            feat_listen_together_desc: "Share your listening experience with friends in real-time sync.",
+            made_by: "© 2026 Metrolist Group. Made with ❤️ by <a href='https://github.com/mostafaalagamy' target='_blank'>Mo Agamy</a>.",
+            disclaimer_title: "Disclaimer / Mentions Légales",
+            disclaimer_text_1: "Metrolist is an <strong>open-source project</strong> licensed under GPL-3.0. This application is <strong>strictly for educational purposes</strong>.",
+            disclaimer_text_2: "Metrolist is <strong>not affiliated with, authorized, maintained, sponsored or endorsed by Google LLC or any of its affiliates or subsidiaries.</strong> The name \"YouTube\" and \"YouTube Music\" are registered trademarks of Google LLC.",
+            disclaimer_text_3: "The developers do not support piracy. This app is a third-party client using public APIs.",
+            sano_bld: "Website by <a href='https://github.com/SanoBld' target='_blank'>Sano Bld</a>",
+            nyx: "Changes and porting by <a href='https://github.com/nyxiereal' target='_blank'>Nyx</a>"
         },
         fr: {
             nav_features: "Fonctionnalités",
@@ -106,7 +114,15 @@ document.addEventListener('DOMContentLoaded', () => {
             faq_4_a: "Oui, Metrolist supporte la connexion via MicroG ou OAuth intégré pour synchroniser vos playlists et votre bibliothèque.",
             faq_5_q: "Existe-t-il une version iOS ?",
             faq_5_a: "Non, Metrolist est actuellement disponible uniquement sur Android en raison des restrictions système sur les clients tiers.",
-            footer_tagline: "Client Musique Open Source"
+            footer_tagline: "Client Musique Open Source",
+            feat_listen_together_desc: "Share your listening experience with friends in real-time sync.",
+            made_by: "© 2026 Metrolist Group. Made with ❤️ by <a href='https://github.com/mostafaalagamy' target='_blank'>Mo Agamy</a>.",
+            disclaimer_title: "Disclaimer / Mentions Légales",
+            disclaimer_text_1: "Metrolist is an <strong>open-source project</strong> licensed under GPL-3.0. This application is <strong>strictly for educational purposes</strong>.",
+            disclaimer_text_2: "Metrolist is <strong>not affiliated with, authorized, maintained, sponsored or endorsed by Google LLC or any of its affiliates or subsidiaries.</strong> The name \"YouTube\" and \"YouTube Music\" are registered trademarks of Google LLC.",
+            disclaimer_text_3: "The developers do not support piracy. This app is a third-party client using public APIs.",
+            sano_bld: "Website by <a href='https://github.com/SanoBld' target='_blank'>Sano Bld</a>",
+            nyx: "Changes and porting by <a href='https://github.com/nyxiereal' target='_blank'>Nyx</a>"
         },
         es: {
             nav_features: "Características",
@@ -159,7 +175,15 @@ document.addEventListener('DOMContentLoaded', () => {
             faq_4_a: "Sí, Metrolist admite el inicio de sesión a través de MicroG o OAuth integrado para sincronizar sus listas.",
             faq_5_q: "¿Existe una versión para iOS?",
             faq_5_a: "No, actualmente Metrolist solo está disponible para Android debido a las restricciones del sistema.",
-            footer_tagline: "Cliente de Música de Código Abierto"
+            footer_tagline: "Cliente de Música de Código Abierto",
+            feat_listen_together_desc: "Share your listening experience with friends in real-time sync.",
+            made_by: "© 2026 Metrolist Group. Made with ❤️ by <a href='https://github.com/mostafaalagamy' target='_blank'>Mo Agamy</a>.",
+            disclaimer_title: "Disclaimer / Mentions Légales",
+            disclaimer_text_1: "Metrolist is an <strong>open-source project</strong> licensed under GPL-3.0. This application is <strong>strictly for educational purposes</strong>.",
+            disclaimer_text_2: "Metrolist is <strong>not affiliated with, authorized, maintained, sponsored or endorsed by Google LLC or any of its affiliates or subsidiaries.</strong> The name \"YouTube\" and \"YouTube Music\" are registered trademarks of Google LLC.",
+            disclaimer_text_3: "The developers do not support piracy. This app is a third-party client using public APIs.",
+            sano_bld: "Website by <a href='https://github.com/SanoBld' target='_blank'>Sano Bld</a>",
+            nyx: "Changes and porting by <a href='https://github.com/nyxiereal' target='_blank'>Nyx</a>"
         },
         it: {
             nav_features: "Funzionalità",
@@ -212,7 +236,15 @@ document.addEventListener('DOMContentLoaded', () => {
             faq_4_a: "Sì, Metrolist supporta l'accesso tramite MicroG o OAuth integrato per sincronizzare playlist e libreria.",
             faq_5_q: "Esiste una versione per iOS?",
             faq_5_a: "No, Metrolist è disponibile solo per Android a causa delle restrizioni di sistema.",
-            footer_tagline: "Client Musicale Open Source"
+            footer_tagline: "Client Musicale Open Source",
+            feat_listen_together_desc: "Share your listening experience with friends in real-time sync.",
+            made_by: "© 2026 Metrolist Group. Made with ❤️ by <a href='https://github.com/mostafaalagamy' target='_blank'>Mo Agamy</a>.",
+            disclaimer_title: "Disclaimer / Mentions Légales",
+            disclaimer_text_1: "Metrolist is an <strong>open-source project</strong> licensed under GPL-3.0. This application is <strong>strictly for educational purposes</strong>.",
+            disclaimer_text_2: "Metrolist is <strong>not affiliated with, authorized, maintained, sponsored or endorsed by Google LLC or any of its affiliates or subsidiaries.</strong> The name \"YouTube\" and \"YouTube Music\" are registered trademarks of Google LLC.",
+            disclaimer_text_3: "The developers do not support piracy. This app is a third-party client using public APIs.",
+            sano_bld: "Website by <a href='https://github.com/SanoBld' target='_blank'>Sano Bld</a>",
+            nyx: "Changes and porting by <a href='https://github.com/nyxiereal' target='_blank'>Nyx</a>"
         },
         pt: {
             nav_features: "Funcionalidades",
@@ -234,7 +266,7 @@ document.addEventListener('DOMContentLoaded', () => {
             feat_theme_title: "Temas Dinâmicos",
             feat_theme_desc: "Cores baseadas na capa do álbum (Material You) ou modo preto puro.",
             feat_offline_title: "Modo Offline",
-            feat_offline_desc: "Baixe músicas para ouvir sem internet e economizar dados.",
+            feat_offline_desc: "Baixe músicas e playlists para ouvir sem internet e economizar dados.",
             feat_discord_title: "Discord RPC",
             feat_discord_desc: "Mostre o que você está ouvindo automaticamente no seu perfil do Discord.",
             feat_audio_title: "Ferramentas de Áudio",
@@ -252,7 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
             btn_weblate: "Abrir Weblate",
             btn_repo: "Ver Repositório",
             comm_code_title: "Contribuir com Código",
-            comm_code_desc: "Desenvolvedores são bem-vindos! Veja as Issues no GitHub para começar.",
+            comm_code_desc: "Desenvolvedores são bem-vindos! Veja a aba de Issues no GitHub para começar.",
             gallery_title: "Galeria",
             faq_title: "Perguntas Frequentes",
             faq_1_q: "É seguro utilizar?",
@@ -265,7 +297,15 @@ document.addEventListener('DOMContentLoaded', () => {
             faq_4_a: "Sim, o Metrolist suporta login via MicroG ou OAuth integrado para sincronizar playlists e biblioteca.",
             faq_5_q: "Existe uma versão para iOS?",
             faq_5_a: "Não, o Metrolist está disponível apenas para Android devido às restrições do sistema.",
-            footer_tagline: "Cliente de Música Open Source"
+            footer_tagline: "Cliente de Música Open Source",
+            feat_listen_together_desc: "Ouça músicas com os amigos em tempo real.",
+            made_by: "© 2026 Metrolist Group. Feito com ❤️ por <a href='https://github.com/mostafaalagamy' target='_blank'>Mo Agamy</a>.",
+            disclaimer_title: "Disclaimer / Menções Legais",
+            disclaimer_text_1: "Metrolist é um <strong>projeto open-source</strong> licenciado sob GPL-3.0. Esse app foi feito <strong>estritamente por motivos educacionais</strong>.",
+            disclaimer_text_2: "Metrolist <strong>não é afiliado com, autorizado, mantido, patrocinado ou aprovado por Google LLC ou qualquer de suas filiais or subsidiárias.</strong> O nome \"YouTube\" e \"YouTube Music\" são marcas registradas de Google LLC.",
+            disclaimer_text_3: "Os desenvolvedores não compactuam com pirataria. Esse app é um cliente de terceiros que usa APIs públicas.",
+            sano_bld: "Website por <a href='https://github.com/SanoBld' target='_blank'>Sano Bld</a>",
+            nyx: "Alterações e portabilidade por <a href='https://github.com/nyxiereal' target='_blank'>Nyx</a>"
         }
     };
 
@@ -281,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!key) return;
             const value = languagePack[key];
             if (value) {
-                el.textContent = value;
+                el.innerHTML = value;
             }
         });
         if (langSelect) langSelect.value = lang; 
